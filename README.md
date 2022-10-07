@@ -70,12 +70,4 @@ Advanced: A dynamic map that shows how each station's popularity changes over ti
 The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
 
 
-
-
-Create your final presentation.
-
-
-Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
-
-
-Ensure your presentation is professional, logical, and visually appealing.
+<img width="867" alt="img 1" src="https://user-images.githubusercontent.com/105587442/194522392-186c6aab-6f3a-4030-98c1-f7015d0a4679.png">
