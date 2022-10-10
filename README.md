@@ -70,12 +70,13 @@ Advanced: A dynamic map that shows how each station's popularity changes over ti
 The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
 
 
+<img width="867" alt="img 1" src="https://user-images.githubusercontent.com/105587442/194522392-186c6aab-6f3a-4030-98c1-f7015d0a4679.png">
+<img width="867" alt="img2" src="https://user-images.githubusercontent.com/105587442/194522787-0438d475-c979-4259-aef0-96c8e681b821.png">
+<img width="867" alt="img3" src="https://user-images.githubusercontent.com/105587442/194522860-a1a60aca-fe74-49cf-8c77-5f82ecf5b025.png">
+<img width="867" alt="img4" src="https://user-images.githubusercontent.com/105587442/194522892-4fdeba45-69c5-4d94-ad93-66bb582b6b28.png">
+<img width="929" alt="img5" src="https://user-images.githubusercontent.com/105587442/194522919-0a581c50-bee6-4ad6-9a82-67957c8900bb.png">
+<img width="824" alt="img6" src="https://user-images.githubusercontent.com/105587442/194522945-fa4b4c8a-735f-4942-ae79-3de28d528a57.png">
+<img width="824" alt="img7" src="https://user-images.githubusercontent.com/105587442/194522962-77ba21f2-d16a-429c-9c90-3404d75dfc9c.png">
+<img width="824" alt="img8" src="https://user-images.githubusercontent.com/105587442/194522986-5e0f55ec-0f96-4fd3-8928-1243b1d16e05.png">
+<img width="824" alt="img9" src="https://user-images.githubusercontent.com/105587442/194523006-86cf1c6c-9cb6-4d4d-bb12-96a9d8d075af.png">
 
-
-Create your final presentation.
-
-
-Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
-
-
-Ensure your presentation is professional, logical, and visually appealing.
